@@ -1,0 +1,21 @@
+.navBar a {
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+  font-family: 'Lato', sans-serif;
+  margin: 10px;
+  padding: 10px;
+  transition: 4s;
+}
+.navBar {
+  background-color: rgb(243, 211, 160);
+}
+
+.main__ {
+  margin: 10px 20px 60px 20px;
+font-size: 20px;
+color: black;}
+
+span {
+  background-color: rgb(243, 211, 160);
+}
